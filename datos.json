@@ -1,6 +1,14 @@
 {
  "version": 1,
- "usados": [],
+ "usados": [
+  "13v8adb0h6c"
+ ],
  "agregados": [],
- "historial": []
+ "historial": [
+  {
+   "t": "sFmc05WZjBybydWZuBybyVma1dWYgU3cgkHIhVGdjF6wMBSYtOsVgEGT",
+   "k": "🪐 un tema del espacio",
+   "f": "2026-11-15"
+  }
+ ]
 }
