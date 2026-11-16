@@ -1,10 +1,16 @@
 {
  "version": 1,
  "usados": [
-  "13v8adb0h6c"
+  "13v8adb0h6c",
+  "3t6aesm3va"
  ],
  "agregados": [],
  "historial": [
+  {
+   "t": "1FWZzNXdvJFIlRGIsFWaj92cg8GdhJHdu92YgwWR",
+   "k": "🕯️ un tema de filosofía o religión",
+   "f": "2026-11-16"
+  },
   {
    "t": "sFmc05WZjBybydWZuBybyVma1dWYgU3cgkHIhVGdjF6wMBSYtOsVgEGT",
    "k": "🪐 un tema del espacio",
